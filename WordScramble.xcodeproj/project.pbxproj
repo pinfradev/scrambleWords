@@ -13,6 +13,7 @@
 		AB1DDA2B2688F59900B22071 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AB1DDA2A2688F59900B22071 /* Assets.xcassets */; };
 		AB1DDA2E2688F59900B22071 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AB1DDA2D2688F59900B22071 /* Preview Assets.xcassets */; };
 		AB1DDA312688F59900B22071 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AB1DDA2F2688F59900B22071 /* LaunchScreen.storyboard */; };
+		ABAC3DD02693C0C1002218D5 /* start.txt in Resources */ = {isa = PBXBuildFile; fileRef = ABAC3DCF2693C0C1002218D5 /* start.txt */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		AB1DDA2D2688F59900B22071 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		AB1DDA302688F59900B22071 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		AB1DDA322688F59900B22071 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		ABAC3DCF2693C0C1002218D5 /* start.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = start.txt; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 				AB1DDA282688F59800B22071 /* ContentView.swift */,
 				AB1DDA2A2688F59900B22071 /* Assets.xcassets */,
 				AB1DDA2F2688F59900B22071 /* LaunchScreen.storyboard */,
+				ABAC3DCF2693C0C1002218D5 /* start.txt */,
 				AB1DDA322688F59900B22071 /* Info.plist */,
 				AB1DDA2C2688F59900B22071 /* Preview Content */,
 			);
@@ -133,6 +136,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				AB1DDA312688F59900B22071 /* LaunchScreen.storyboard in Resources */,
+				ABAC3DD02693C0C1002218D5 /* start.txt in Resources */,
 				AB1DDA2E2688F59900B22071 /* Preview Assets.xcassets in Resources */,
 				AB1DDA2B2688F59900B22071 /* Assets.xcassets in Resources */,
 			);
